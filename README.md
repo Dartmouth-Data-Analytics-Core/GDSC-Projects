@@ -18,7 +18,7 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 
 | Project | Modality | Repo | Date |
 |----------|-----------|------|------|
-| 250916-Fiering-DGE | Bulk transcriptomics, differential expression | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/250916-Fiering-DGE) | 09/16/2025 |
+| 250916-Fiering-DGE | RNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/250916-Fiering-DGE) | 09/16/2025 |
 
 </details>
 
@@ -54,7 +54,7 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 
 | Project | Modality | Repo | Date |
 |----------|-----------|------|------|
-| 20250306-Leib-HSV1-Multiomics | Bulk transcriptomics, Spatial (Visium) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/20250306-Leib-HSV1-Multiomics) | 03/06/2025 |
+| 20250306-Leib-HSV1-Multiomics | RNA-Seq, Visium | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/20250306-Leib-HSV1-Multiomics) | 03/06/2025 |
 
 </details>
 
@@ -63,7 +63,7 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 
 | Project | Modality | Repo | Date |
 |----------|-----------|------|------|
-| 250922-Malaney-Colon-Cell-line-DEGs | Bulk transcriptomics | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/250922-Malaney-Colon-Cell-line-DEGs) | 09/22/2025 |
+| 250922-Malaney-Colon-Cell-line-DEGs | RNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/250922-Malaney-Colon-Cell-line-DEGs) | 09/22/2025 |
 
 </details>
 
@@ -72,7 +72,7 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 
 | Project | Modality | Repo | Date |
 |----------|-----------|------|------|
-| 241105_pioli_scRNASeq |sc GEX | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/241105_pioli_scRNAseq) | 11/05/2024 |
+| 241105_pioli_scRNASeq |scRNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/241105_pioli_scRNAseq) | 11/05/2024 |
 
 </details>
 
@@ -81,26 +81,14 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 
 | Project | Modality | Repo | Date |
 |----------|-----------|------|------|
-| 250625_Turk_xenium | Spatial (Xenium) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/250625_Turk_xenium) | 06/25/2025 |
+| 250625_Turk_xenium | Xenium | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/250625_Turk_xenium) | 06/25/2025 |
 
 </details>
 
 
 <!-- START: modality-counts -->
 
-### Modality counts
 
-| Modality | Count |
-|----------|-------|
-| Bulk-Transcriptomics | 3 |
-| 10x Multiome | 1 |
-| differential expression | 1 |
-| Epigenetics | 1 |
-| Metagenomics | 1 |
-| ResolveOME | 1 |
-| scRNA-Seq | 1 |
-| Spatial (Visium) | 1 |
-| Spatial (Xenium) | 1 |
 
 <!-- END: modality-counts -->
 
