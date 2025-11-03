@@ -1,16 +1,91 @@
 # GDSC-Projects
 Running list of projects and GitHub location
 
-**Dunlap**
+<details>
+<summary>Dunlap</summary>
+  
 | Project | Modality | Repo | Date|
 |----------|-----------|------|----|
 |250708-dunlap-atac| Epigenetics| [Github](https://github.com/Dartmouth-Data-Analytics-Core/250708-dunlap-atac)| 07/08/2025 |
 
+</details>
 
-**Fiering**
+<details>
+<summary>Fiering</summary>
 
-| Project | Modality | Repo | Date|
-|----------|-----------|------|----|
+| Project | Modality | Repo | Date |
+|----------|-----------|------|------|
 | 250916-Fiering-DGE | Bulk transcriptomics, differential expression | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/250916-Fiering-DGE) | 09/16/2025 |
+
+</details>
+
+<details>
+<summary>Godek</summary>
+
+| Project | Modality | Repo | Date |
+|----------|-----------|------|------|
+| 251014_godek_resolveOME | ResolveOME | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/251014_godek_resolveOME) | 10/14/2025 |
+
+</details>
+
+<details>
+<summary>Goods</summary>
+
+| Project | Modality | Repo | Date |
+|----------|-----------|------|------|
+| 251006_DNASeq_goods | MGX | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/251006_DNAseq_goods) | 10/06/2025 |
+
+</details>
+
+<details>
+<summary>Kasper</summary>
+
+| Project | Modality | Repo | Date |
+|----------|-----------|------|------|
+| kasper_250613_10x_multiome | 10x multiome | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/kasper_250613_10x_multiome) | 06/13/2025 |
+
+</details>
+
+<details>
+<summary>Leib</summary>
+
+| Project | Modality | Repo | Date |
+|----------|-----------|------|------|
+| 20250306-Leib-HSV1-Multiomics | Bulk transcriptomics, Spatial (Visium) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/20250306-Leib-HSV1-Multiomics) | 03/06/2025 |
+
+</details>
+
+<details>
+<summary>Malaney</summary>
+
+| Project | Modality | Repo | Date |
+|----------|-----------|------|------|
+| 250922-Malaney-Colon-Cell-line-DEGs | Bulk transcriptomics | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/250922-Malaney-Colon-Cell-line-DEGs) | 09/22/2025 |
+
+</details>
+
+<details>
+<summary>Pioli</summary>
+
+| Project | Modality | Repo | Date |
+|----------|-----------|------|------|
+| 241105_pioli_scRNASeq |sc GEX | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/241105_pioli_scRNAseq) | 11/05/2024 |
+
+</details>
+
+<details>
+<summary>Turk</summary>
+
+| Project | Modality | Repo | Date |
+|----------|-----------|------|------|
+| 250625_Turk_xenium | Spatial (Xenium) | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/250625_Turk_xenium) | 06/25/2025 |
+
+</details>
+
+
+
+
+
+
 
 
