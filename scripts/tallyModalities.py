@@ -9,27 +9,43 @@ START = "<!-- START: modality-counts -->"
 END = "<!-- END: modality-counts -->"
 
 ALIASES: Dict[str, str] = {
-    "bulk Transcriptomics": "Bulk-Transcriptomics",
-    "Bulk Transcriptomics": "Bulk-Transcriptomics",
+    # Bulk transcriptomics variants
     "bulk transcriptomics": "Bulk-Transcriptomics",
-    "RNA-Seq": "Bulk-Transcriptomics",
-    "RNASeq": "Bulk-Transcriptomics",
+    "bulk transcriptomic": "Bulk-Transcriptomics",
+    "bulk transcriptome": "Bulk-Transcriptomics",
+    "rna-seq": "Bulk-Transcriptomics",
     "rnaseq": "Bulk-Transcriptomics",
-    "RNA-seq": "Bulk-Transcriptomics",
+    "rna seq": "Bulk-Transcriptomics",
+    "rna seq.": "Bulk-Transcriptomics",
+
+    # Single-cell gene expression
     "sc gex": "scRNA-Seq",
-    "single cell RNA-Seq": "scRNA-Seq",
-    "scRNA-Seq": "scRNA-Seq"
-    "bulk ATACSeq": "Bulk-Epigenetics",
+    "single cell rna-seq": "scRNA-Seq",
+    "scrna-seq": "scRNA-Seq",
+    "sc rna-seq": "scRNA-Seq",
+
+    # ATAC-seq
+    "bulk atacseq": "Bulk-Epigenetics",
+    "bulk atac-seq": "Bulk-Epigenetics",
     "sc atac": "scATAC-Seq",
-    "10x Multiome": "10x Multiome",
-    "ResolveOME": "ResolveOME,
-    "Spatial:" "Spatial",
-    "Visium:" "10x Visium",
-    "Xeniums:" "10x Xenium"
+    "sc atac-seq": "scATAC-Seq",
+
+    # Multiome and others
+    "10x multiome": "10x Multiome",
+    "resolveome": "ResolveOME",
+    
+    # Spatial platforms
+    "spatial": "Spatial",
+    "visium": "10x Visium",
+    "10x visium": "10x Visium",
+    "xenium": "10x Xenium",
+    "xeniums": "10x Xenium",
+    "10x xenium": "10x Xenium",
+
+    # Misc
     "mgx": "Metagenomics",
-    "workflow dev": "Workflow development"
-    "Other" : "Other"
-    # Add any harmonization mappings you want here
+    "workflow dev": "Workflow development",
+    "other": "Other",
 }
 
 def normalize(modality: str) -> str:
