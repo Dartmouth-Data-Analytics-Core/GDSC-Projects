@@ -87,6 +87,21 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 
 
 <!-- START: modality-counts -->
+
+### Modality counts
+
+| Modality | Count |
+|----------|-------|
+| Bulk-Transcriptomics | 3 |
+| 10x Multiome | 1 |
+| differential expression | 1 |
+| Epigenetics | 1 |
+| Metagenomics | 1 |
+| ResolveOME | 1 |
+| scRNA-Seq | 1 |
+| Spatial (Visium) | 1 |
+| Spatial (Xenium) | 1 |
+
 <!-- END: modality-counts -->
 
 
