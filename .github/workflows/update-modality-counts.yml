@@ -27,7 +27,7 @@ jobs:
 
       - name: Run tally script
         run: |
-          python3 scripts/tallyModalities.py
+          python3 scripts/tally_modalities.py
 
       - name: Commit changes (if any)
         uses: stefanzweifel/git-auto-commit-action@v5
