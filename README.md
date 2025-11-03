@@ -1,5 +1,8 @@
-# GDSC-Projects
-Running list of projects and GitHub location
+# Dartmouth Data Analytics Core <img src="https://github.com/Dartmouth-Data-Analytics-Core/.github/blob/main/profile/img/cqb_logo.jpg" width="160" height="90" alt="CQB Logo">
+
+The **GDSC** aims to facilitate advanced bioinformatic, computational, and statistical analysis of complex genomics data for the Dartmouth research community.  
+
+## Project Master List
 
 <details>
 <summary>Dunlap</summary>
