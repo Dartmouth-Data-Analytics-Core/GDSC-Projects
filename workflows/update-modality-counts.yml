@@ -1,0 +1,36 @@
+name: Update modality counts
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  pull_request:
+  schedule:
+    - cron: "17 3 * * 1"   # Mondays at 03:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  tally:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run tally script
+        run: |
+          python3 scripts/tally_modalities.py
+
+      - name: Commit changes (if any)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update modality counts in README"
+          file_pattern: "README.md"
