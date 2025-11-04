@@ -1,22 +1,44 @@
 # GDSC: Building a new project SOP
+**Author: Mike Martinez, November, 2025**
+
+## Overview
+
+This standard operating procedure (SOP) describes the standard procedure for core personnel when creating and logging a new project repository within the [Dartmouth Data Analytics Core Github Organization](https://github.com/Dartmouth-Data-Analytics-Core). Please follow these steps to ensure:
+
+- Consistent project naming and structure
+- Proper tracking in the [GDSC-Projects repo](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Projects)
+- Accurate updates to statistics dashboard
 
 ## Initializing a project repo
+1. **Create the repository on github**
+  - Create a new private github repository initialized with a README.md  
+  - Naming convention should be as follows: `YYMMDD-Client-Description`
+    - Example: `260101-Smith-kidney-scRNASeq`
 
-1. Create a new private github repository initialized with a README.md  
-2. Naming convention should be as follows: `YYMMDD-Client-Description`
-3. On Github Desktop or Git, clone the repository to the respective client folder on Discovery within GMBSR_bioinfo. For example, if the project is 260101-Smith-RNASeq, clone the repo to GMBSR_bioinfo/Labs/smith
+2. **Clone the repository**
+  - On Github Desktop or command-line git clone the newly created repository to the appropriate client folder on Discovery `GMBSR_bioinfo/labs/<client_lastname>`
 
 ## Updating the project master list
 
-For organization and a public-facing record of our work it is important to update the master list of project housed in the [GDSC-Projects Repo](tps://github.com/Dartmouth-Data-Analytics-Core/GDSC-Projects/). The README.md
-on that repository contains drop down lists of projects, split by client. Client names follow alphabetical order. Information included in each client table includes the repo name, a data-modality category, a link to the
-private repo (which only GDSC team members can access) and the date the repo was added. A Github action is set such that every time this README.md is modified, or a change is pushed to this repo, a tally of modalities 
-will be updated. **You do not need to manually change this in the readme!** The script which completes the tallying is set to accept harmonized alises for each data modality, but new terms can be addedd in as well within the 
-script [here](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Projects/blob/main/scripts/tallyModalities.py) under the `ALIASES` section. Any term not included in the alises will be counted as its own category.
+The [GDSC-Projects repo](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Projects) maintains a centralized list of **all active projects**. 
 
-**For new clients not already listed:**
+Each project entry is used for:
 
-1. Create a new header for this client by alphabetically placing their name within the list using this structure: *You can just copy and paste a block from the README.md and edit as necessary!*
+  - Core personell's ability to quickly locate a project directory of interest.
+  - Public visibility of our analytical breadth
+  - Automated modality tallying via Github Actions
+
+**Important notes**
+
+  - The [tallying sript](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Projects/blob/main/scripts/tallyModalities.py) runs **automatically** after each push or modification to the README.md, **do not manually edit modality counts**
+
+  - Valid modality aliases are listed in the tallying script under the `ALIASES` section
+
+  - If you introduce a new modality name, add it a an alias in the script to keep the counts harmonized (i.e, RNA-Seq is the same as RNAseq, but if one is not listed in the aliases, they will be counted as separate categories.)
+
+**Adding a new client**
+
+If the client is not already listed, create a new expandable section using a (< details > block) in alphabetical order. If easier, you can also copy a pre-existing block, paste in the correct location, and modify the tabular information as needed
 
 ```
 <details>
@@ -30,24 +52,25 @@ script [here](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Projects/blo
 
 ```
 
-**Formatting details**
+**Adding new projects to existing clients**
 
-- Repo name should be exactly as it appears on github
-- Modality should typically match one of the aliases in `scripts/tallyModalities.py`, or a new aslias should be added directly to the script (ex, try and avoid having RNA-Seq in some places and RNAseq in others)
-- Repo should be a clickable hyperlink called "Github". To create hyperlinks in markdown use this convention: [Github](htpps://github.com/link/to/repo/)
-- Date column should be in MM/DD/YYYY format
-
-
-**For clients already listed**
-
-1. Locate the client on the README.md and edit to add a new row to their table
+If the client already exists, simply add a new row to their project table.
 
 ```
 | Project | Modality | Repo | Date|
 |----------|-----------|------|----|
 |REPO NAME| DATA MODALITY| [Github](https://github.com/link/to/repo/)| MM/DD/YYYY |
 |NEW PROJECT| DATA MODALITY| [Github](https://github.com/link/to/new_repo/)| MM/DD/YYYY |
-
 ```
+
+**Formatting Guidelines**
+
+- `Repo name` should match exactly the Github repository name
+
+- `Modality` should use consistent modality terminology that matches existing aliases, or add a new alias to the tallying script.
+
+- `Repo` should be a hyperlink to the repository called "Github". Use markdown hyperlinks using this formula: ```[Github](link)```
+
+- Date column should be in MM/DD/YYYY format
 
 
