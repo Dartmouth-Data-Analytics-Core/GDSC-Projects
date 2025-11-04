@@ -7,7 +7,7 @@ This standard operating procedure (SOP) describes the standard procedure for cor
 
 - Consistent project naming and structure
 - Proper tracking in the [GDSC-Projects repo](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Projects)
-- Accurate updates to statistics dashboard
+- Clean and reproducibile data provenance
 
 ## Initializing a project repo
 1. **Create the repository on github**
