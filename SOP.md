@@ -44,7 +44,7 @@ If the client is not already listed, create a new expandable section using a (< 
 <details>
 <summary>ClIENT LAST NAME</summary>
   
-| Project | Modality | Repo | Date|
+| Project | M odality | Repo | Date|
 |----------|-----------|------|----|
 |REPO NAME| DATA MODALITY| [Github](https://github.com/link/to/repo/)| MM/DD/YYYY |
 
@@ -57,7 +57,7 @@ If the client is not already listed, create a new expandable section using a (< 
 If the client already exists, simply add a new row to their project table.
 
 ```
-| Project | Modality | Repo | Date|
+| Project | M odality | Repo | Date|
 |----------|-----------|------|----|
 |REPO NAME| DATA MODALITY| [Github](https://github.com/link/to/repo/)| MM/DD/YYYY |
 |NEW PROJECT| DATA MODALITY| [Github](https://github.com/link/to/new_repo/)| MM/DD/YYYY |
