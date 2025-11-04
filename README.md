@@ -92,18 +92,15 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 
 | Modality | Count |
 |----------|-------|
-| 1 | 10 |
-| Bulk-Transcriptomics | 3 |
-| 10 | 1 |
-| 10x Multiome | 1 |
-| 10x Visium | 1 |
-| 10x Xenium | 1 |
-| 3 | 1 |
-| Count | 1 |
-| Epigenetics | 1 |
-| Metagenomics | 1 |
-| ResolveOME | 1 |
-| scRNA-Seq | 1 |
+| [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/20250306-Leib-HSV1-Multiomics) | 1 |
+| [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/241105_pioli_scRNAseq) | 1 |
+| [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/250625_Turk_xenium) | 1 |
+| [Github](https://github.com/Dartmouth-Data-Analytics-Core/250708-dunlap-atac) | 1 |
+| [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/250916-Fiering-DGE) | 1 |
+| [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/250922-Malaney-Colon-Cell-line-DEGs) | 1 |
+| [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/251006_DNAseq_goods) | 1 |
+| [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/251014_godek_resolveOME) | 1 |
+| [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/kasper_250613_10x_multiome) | 1 |
 
 <!-- END: modality-counts -->
 
