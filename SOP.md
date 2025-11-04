@@ -73,4 +73,28 @@ If the client already exists, simply add a new row to their project table.
 
 - Date column should be in MM/DD/YYYY format
 
+## Repository Documentation and Contents
+
+Project repositories should be documented in as-similar of a manner as possible such that data provenance is clear, script descriptions are clear, and reasoning for each step is clear. Doing so allows:
+
+- Future you and/or future core-personnel can know and understand what was done
+
+- Enables reproducibility, accountability, and trust
+
+Each repository README.md should contain the following *bare-minimum* information:
+
+```
+## Repo Name
+Author:
+
+## Background
+Brief background of the project, inputs, and expected deliverables as listed in the client quote
+
+## Methods summary, OR detailed per-script documentation
+
+## Software environments
+```
+
+Each repository should contain a .gitignore file specifying which output folders/ miscellaneous folders to ignore. Ideally, the only information on these repositories should be a `code` or `scripts` folder, software environment files (conda.yaml, singularity.sif, singularity.def, RSessionInfo.txt, etc...) and any READMEs or project specific documentation. 
+
 
