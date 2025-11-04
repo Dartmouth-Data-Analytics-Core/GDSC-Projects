@@ -57,25 +57,49 @@ def normalize(modality: str) -> str:
 
 def extract_modalities_from_markdown(md_text: str) -> List[str]:
     modalities: List[str] = []
+    in_counts_section = False
+
     for line in md_text.splitlines():
-        if not line.startswith("|"):
+        # Skip the modality count table itself
+        if "<!-- START: modality-counts -->" in line:
+            in_counts_section = True
             continue
-        if re.match(r"^\|\s*Project\s*\|", line):
+        if "<!-- END: modality-counts -->" in line:
+            in_counts_section = False
+            continue
+        if in_counts_section:
+            continue
+
+        # Process only table rows from client project lists
+        if not line.strip().startswith("|"):
+            continue
+        if re.match(r"^\|\s*Project\s*\|", line, re.IGNORECASE):
             continue
         if re.match(r"^\|\s*-+\s*\|", line):
             continue
-        cells = [c.strip() for c in line.split("|")]
-        # Expect at least 4 cells: leading empty, Project, Modality, Repo, Date, trailing empty
+
+        # Split safely
+        cells = [c.strip() for c in line.strip().split("|") if c.strip()]
         if len(cells) < 4:
             continue
-        modality_cell = cells[2]  # Modality is the second visible column
+
+        # Identify the modality column by name if possible
+        header_lower = [c.lower() for c in cells]
+        if "modality" in header_lower:
+            continue  # skip header rows
+
+        modality_cell = cells[1] if len(cells) == 3 else cells[2]
+
         if not modality_cell:
             continue
+
+        # Split on commas if multiple modalities listed
         parts = re.split(r"\s*,\s*", modality_cell)
         for p in parts:
             n = normalize(p)
             if n:
                 modalities.append(n)
+
     return modalities
 
 def build_table(counts: Counter) -> str:
