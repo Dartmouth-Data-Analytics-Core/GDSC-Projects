@@ -57,20 +57,35 @@ def normalize(modality: str) -> str:
 
 def extract_modalities_from_markdown(md_text: str) -> List[str]:
     modalities: List[str] = []
+    in_counts_section = False
+
     for line in md_text.splitlines():
+        # Skip the generated counts section entirely
+        if START in line:
+            in_counts_section = True
+            continue
+        if END in line:
+            in_counts_section = False
+            continue
+        if in_counts_section:
+            continue
+
         if not line.startswith("|"):
             continue
         if re.match(r"^\|\s*Project\s*\|", line):
             continue
         if re.match(r"^\|\s*-+\s*\|", line):
             continue
+
         cells = [c.strip() for c in line.split("|")]
-        # Expect at least 4 cells: leading empty, Project, Modality, Repo, Date, trailing empty
+        # Expect at least 4 cells: leading empty, Project, Modality, Repo/Count, trailing empty
         if len(cells) < 4:
             continue
+
         modality_cell = cells[2]  # Modality is the second visible column
         if not modality_cell:
             continue
+
         parts = re.split(r"\s*,\s*", modality_cell)
         for p in parts:
             n = normalize(p)
