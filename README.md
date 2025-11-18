@@ -85,6 +85,15 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 
 </details>
 
+<details>
+<summary>Zhang</summary>
+  
+| Project | Modality | Repo | Date|
+|----------|-----------|------|----|
+|251028-Zhang-RNA-seq| RNA-Seq| [Github](https://github.com/Dartmouth-Data-Analytics-Core/251028-Zhang-RNA-seq)| 10/28/2025 |
+
+</details>
+
 
 <!-- START: modality-counts -->
 
