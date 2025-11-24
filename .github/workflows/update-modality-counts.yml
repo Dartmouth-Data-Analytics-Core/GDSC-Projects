@@ -1,5 +1,4 @@
 name: Update modality counts
-
 on:
   push:
     branches: [ "main", "master" ]
@@ -19,18 +18,18 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
+      
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
+      
       - name: Run tally script
         run: |
           python3 scripts/tallyModalities.py
-
+      
       - name: Commit changes (if any)
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update modality counts in README"
-          file_pattern: "README.md"
+          file_pattern: "README.md .github/modality-badge.svg"
