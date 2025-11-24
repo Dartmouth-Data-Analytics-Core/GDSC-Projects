@@ -5,6 +5,15 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 ## Project Master List
 
 <details>
+<summary>Core Development</summary>
+  
+| Project | Modality | Repo | Date|
+|----------|-----------|------|----|
+|miRNA-pipeline-comparison| workflow development| [Github](https://github.com/Dartmouth-Data-Analytics-Core/miRNA-pipeline-comparison)| 11/21/2025 |
+
+</details>
+
+<details>
 <summary>Dunlap</summary>
   
 | Project | Modality | Repo | Date|
