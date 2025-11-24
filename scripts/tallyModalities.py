@@ -45,6 +45,9 @@ ALIASES: Dict[str, str] = {
     # Misc
     "mgx": "Metagenomics",
     "workflow dev": "Workflow development",
+    "workflow development" : "Workflow development",
+    "workflows" : "Workflow development",
+    "development" : "Workflow development",
     "other": "Other",
 }
 
