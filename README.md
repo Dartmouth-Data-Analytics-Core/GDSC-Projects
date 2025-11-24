@@ -115,7 +115,14 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 
 <!-- START: modality-counts -->
 
-### Modality counts
+### Modality Distribution
+
+<p align="center">
+  <img src=".github/modality-badge.svg" alt="Modality Distribution" />
+</p>
+
+<details>
+<summary>View as table</summary>
 
 | Modality | Count |
 |----------|-------|
@@ -128,6 +135,8 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 | Metagenomics | 1 |
 | ResolveOME | 1 |
 | scRNA-Seq | 1 |
+
+</details>
 
 <!-- END: modality-counts -->
 
