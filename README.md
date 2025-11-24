@@ -86,6 +86,15 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 </details>
 
 <details>
+<summary>Sundrud</summary>
+
+| Project | Modality | Repo | Date |
+|----------|-----------|------|------|
+| 251123-Sundrud-BarcodeSeq-Dev | workflow development  | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/251123-Sundrud-BarcodeSeq-Dev) | 11/23/2025 |
+
+</details>
+
+<details>
 <summary>Turk</summary>
 
 | Project | Modality | Repo | Date |
