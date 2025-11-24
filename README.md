@@ -118,6 +118,7 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 | Metagenomics | 1 |
 | ResolveOME | 1 |
 | scRNA-Seq | 1 |
+| workflow development | 1 |
 
 <!-- END: modality-counts -->
 
