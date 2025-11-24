@@ -120,6 +120,7 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 | Modality | Count |
 |----------|-------|
 | Bulk-Transcriptomics | 4 |
+| Workflow development | 2 |
 | 10x Multiome | 1 |
 | 10x Visium | 1 |
 | 10x Xenium | 1 |
@@ -127,7 +128,6 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 | Metagenomics | 1 |
 | ResolveOME | 1 |
 | scRNA-Seq | 1 |
-| Workflow development | 1 |
 
 <!-- END: modality-counts -->
 
