@@ -44,6 +44,9 @@ ALIASES: Dict[str, str] = {
     "workflow development": "Workflow development",
     "workflows": "Workflow development",
     "development": "Workflow development",
+    "pipeline" : "Pipeline",
+    "Pipeline" : "Pipeline",
+    "workflow": "Pipeline",
     "other": "Other",
 }
 
@@ -60,6 +63,7 @@ COLORS: Dict[str, str] = {
     "10x Xenium": "#DA5B0B",
     "Metagenomics": "#701516",
     "Workflow development": "#384d54",
+    "Pipeline": "#9b59b6",
     "Other": "#cccccc",
 }
 
