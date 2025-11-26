@@ -14,6 +14,21 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 </details>
 
 <details>
+<summary>Core Pipelines</summary>
+  
+| Project | Modality | Repo | Date|
+|----------|-----------|------|----|
+| DAC-RNAseq-pipeline | Pipeline| [Github](https://github.com/Dartmouth-Data-Analytics-Core/DAC-RNAseq-pipeline)| 11/12/2019 |
+| GDSC-clover-Seq | Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-clover-Seq) | 10/22/2025 |
+| GDSC-MGX-Pipeline | Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-MGX-Pipieline) |10/2/2025 |
+| GDSC-HyperTRIBE-pipeline | Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-HyperTRIBE-pipeline) | 4/25/2025 |
+| DAC-Barcode-Seq-pipeline | Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/DAC-Barcode-Seq-pipeline) | 3/26/2025 |
+| DAC-BulkATAC-Seq-pipeline | Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/DAC-BulkATAC-Seq-pipeline) | 4/4/2025 |
+| DAC-WES-pipeline | Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/DAC-WES-pipeline) | 3/5/2025 |
+
+</details>
+
+<details>
 <summary>Dunlap</summary>
   
 | Project | Modality | Repo | Date|
