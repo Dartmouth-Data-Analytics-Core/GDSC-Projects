@@ -141,6 +141,7 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 
 | Modality | Count |
 |----------|-------|
+| Pipeline | 7 |
 | Bulk-Transcriptomics | 4 |
 | Workflow development | 2 |
 | 10x Multiome | 1 |
