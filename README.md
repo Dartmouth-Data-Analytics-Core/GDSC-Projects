@@ -19,6 +19,7 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 | Project | Modality | Repo | Date|
 |----------|-----------|------|----|
 | DAC-RNAseq-pipeline | Pipeline| [Github](https://github.com/Dartmouth-Data-Analytics-Core/DAC-RNAseq-pipeline)| 11/12/2019 |
+| GDSC-miRNAseq-analysis-pipeline| Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-miRNAseq-analysis-pipeline) | 3/20/2023
 | GDSC-clover-Seq | Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-clover-Seq) | 10/22/2025 |
 | GDSC-MGX-Pipeline | Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-MGX-Pipieline) |10/2/2025 |
 | GDSC-HyperTRIBE-pipeline | Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-HyperTRIBE-pipeline) | 4/25/2025 |
