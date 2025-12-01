@@ -89,6 +89,7 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 | Project | Modality | Repo | Date |
 |----------|-----------|------|------|
 | 250922-Malaney-Colon-Cell-line-DEGs | RNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/250922-Malaney-Colon-Cell-line-DEGs) | 09/22/2025 |
+| 251201-Malaney-Lymphoma-Signature | RNA-Seq | [Github](https://github.com/Dartmouth-Data-Analytics-Core/251201-Malaney-Lymphoma-Signature) | 12/01/2025 | 
 
 </details>
 
