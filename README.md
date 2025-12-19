@@ -62,6 +62,7 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 | Project | Modality | Repo | Date |
 |----------|-----------|------|------|
 | 251006_DNASeq_goods | MGX | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/251006_DNAseq_goods) | 10/06/2025 |
+| 251217-Goods-DEGs| RNA-Seq| [Github](https://github.com/Dartmouth-Data-Analytics-Core/251217-Goods-DEGs) | 12/17/2025 |
 
 </details>
 
