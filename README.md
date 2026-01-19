@@ -163,6 +163,7 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 | Metagenomics | 1 |
 | ResolveOME | 1 |
 | scRNA-Seq | 1 |
+| SOP | 1 |
 
 </details>
 
