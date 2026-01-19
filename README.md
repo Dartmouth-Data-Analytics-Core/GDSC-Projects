@@ -30,6 +30,15 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 </details>
 
 <details>
+<summary>Core SOPs</summary>
+  
+| Project | Modality | Repo | Date|
+|----------|-----------|------|----|
+| GDSC-Pixi-SOP | SOP | [Github](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Pixi-SOP) | 1/19/2026 |
+
+</details>
+
+<details>
 <summary>Dunlap</summary>
   
 | Project | Modality | Repo | Date|
