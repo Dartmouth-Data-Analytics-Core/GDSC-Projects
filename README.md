@@ -39,6 +39,14 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 </details>
 
 <details>
+<summary>Ashare</summary>
+
+| Project | Modality | Repo | Date |
+|---------|----------|------|------|
+|250618_10x_flex_Ashare_scRNA| scRNA-Seq |[Github](https://github.com/Dartmouth-Data-Analytics-Core/250618_10x_flex_Ashare_scRNA)|06/18/2025|
+</details>
+
+<details>
 <summary>Dunlap</summary>
   
 | Project | Modality | Repo | Date|
