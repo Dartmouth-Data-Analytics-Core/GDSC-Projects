@@ -26,6 +26,7 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 | DAC-Barcode-Seq-pipeline | Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/DAC-Barcode-Seq-pipeline) | 3/26/2025 |
 | DAC-BulkATAC-Seq-pipeline | Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/DAC-BulkATAC-Seq-pipeline) | 4/4/2025 |
 | DAC-WES-pipeline | Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/DAC-WES-pipeline) | 3/5/2025 |
+| Prebuilt_Pixi_Workspaces | Pipeline | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/Prebuilt_Pixi_Workspaces) | 3/20/2026 |
 
 </details>
 
@@ -35,6 +36,7 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 | Project | Modality | Repo | Date|
 |----------|-----------|------|----|
 | GDSC-Pixi-SOP | SOP | [Github](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Pixi-SOP) | 1/19/2026 |
+| GEO-submission-file-management | SOP | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GEO-submission-file-management) | 3/20/2026 |
 
 </details>
 
