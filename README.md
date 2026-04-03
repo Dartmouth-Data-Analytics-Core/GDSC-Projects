@@ -95,6 +95,15 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 </details>
 
 <details>
+<summary>Lacefield</summary>
+
+| Project | Modality | Repo | Date |
+|----------|-----------|------|------|
+| 260323-Lacefield-HyperTRIBE | HyperTRIBE | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/260323-Lacefield-HyperTRIBE) | 03/23/2023 |
+
+</details>
+
+<details>
 <summary>Leib</summary>
 
 | Project | Modality | Repo | Date |
