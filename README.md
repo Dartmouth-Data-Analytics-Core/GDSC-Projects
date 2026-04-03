@@ -28,6 +28,7 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 | DAC-WES-pipeline | Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/DAC-WES-pipeline) | 3/5/2025 |
 | Prebuilt_Pixi_Workspaces | Pipeline | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/Prebuilt_Pixi_Workspaces) | 3/20/2026 |
 | snakemake_DARLIN_mod | Pipeline | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/snakemake_DARLIN_mod) | 4/2/2026 |
+
 </details>
 
 <details>
