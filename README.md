@@ -172,7 +172,7 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 
 | Modality | Count |
 |----------|-------|
-| Pipeline | 9 |
+| Pipeline | 10 |
 | Bulk-Transcriptomics | 6 |
 | scRNA-Seq | 2 |
 | SOP | 2 |
