@@ -181,6 +181,7 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 | 10x Visium | 1 |
 | 10x Xenium | 1 |
 | Epigenetics | 1 |
+| HyperTRIBE | 1 |
 | Metagenomics | 1 |
 | ResolveOME | 1 |
 
