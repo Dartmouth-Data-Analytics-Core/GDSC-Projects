@@ -183,13 +183,13 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 |----------|-------|
 | Pipeline | 10 |
 | Bulk-Transcriptomics | 6 |
+| Epigenetics | 2 |
 | scRNA-Seq | 2 |
 | SOP | 2 |
 | Workflow development | 2 |
 | 10x Multiome | 1 |
 | 10x Visium | 1 |
 | 10x Xenium | 1 |
-| Epigenetics | 1 |
 | HyperTRIBE | 1 |
 | Metagenomics | 1 |
 | ResolveOME | 1 |
