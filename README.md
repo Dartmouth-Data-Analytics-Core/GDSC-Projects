@@ -105,6 +105,14 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 </details>
 
 <details>
+<summary>Leach</summary>
+
+| Project | Modality | Repo | Date |
+|----------|-----------|------|------|
+| leach-260521-bulkATAC | Epigenetics | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/leach-260521-bulkATAC) | 05/21/2026 |
+
+
+<details>
 <summary>Leib</summary>
 
 | Project | Modality | Repo | Date |
