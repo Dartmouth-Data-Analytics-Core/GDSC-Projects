@@ -220,3 +220,46 @@ Analyses delivered to collaborating Dartmouth labs. Click a PI to expand their p
 </details>
 
 ---
+
+<!-- START: modality-counts -->
+
+### Modality Distribution
+
+<p align="center">
+  <img src=".github/modality-badge.svg" alt="Modality Distribution" />
+</p>
+
+<details>
+<summary>View as table</summary>
+
+| Modality | Count |
+|----------|-------|
+| 1 | 6 |
+| Bulk-Transcriptomics | 6 |
+| 2 | 4 |
+| Epigenetics | 3 |
+| HyperTRIBE | 2 |
+| Metagenomics | 2 |
+| scRNA-Seq | 2 |
+| 10 | 1 |
+| 10x Multiome | 1 |
+| 10x Visium | 1 |
+| 10x Xenium | 1 |
+| 6 | 1 |
+| Barcode-Seq | 1 |
+| Barcode-Seq development | 1 |
+| Bulk RNA-Seq | 1 |
+| Clover-Seq | 1 |
+| Count | 1 |
+| GEO submissions | 1 |
+| Lineage tracing | 1 |
+| miRNA-Seq | 1 |
+| Pipeline benchmarking | 1 |
+| Pixi environment management | 1 |
+| ResolveOME | 1 |
+| Tooling | 1 |
+| WES | 1 |
+
+</details>
+
+<!-- END: modality-counts -->
