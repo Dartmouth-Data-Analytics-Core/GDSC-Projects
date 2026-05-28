@@ -1,177 +1,199 @@
-# Dartmouth Data Analytics Core <img src="https://github.com/Dartmouth-Data-Analytics-Core/.github/blob/main/profile/img/cqb_logo.jpg" width="160" height="90" alt="CQB Logo">
+# Dartmouth Data Analytics Core <img src="https://github.com/Dartmouth-Data-Analytics-Core/.github/blob/main/profile/img/cqb_logo.jpg" width="160" height="90" alt="CQB Logo" align="right">
 
-The **GDSC** aims to facilitate advanced bioinformatic, computational, and statistical analysis of complex genomics data for the Dartmouth research community.  
+The **Genomics Data Science Core (GDSC)** facilitates advanced bioinformatic, computational, and statistical analysis of complex genomics data for the Dartmouth research community.
 
-## Project Master List
+This repository serves as the public index of our work: reusable pipelines and SOPs developed by the core, and per-project analyses delivered to collaborating labs.
 
-<details>
-<summary>Core Development</summary>
-  
-| Project | Modality | Repo | Date|
-|----------|-----------|------|----|
-|miRNA-pipeline-comparison| workflow development| [Github](https://github.com/Dartmouth-Data-Analytics-Core/miRNA-pipeline-comparison)| 11/21/2025 |
+---
 
-</details>
+### Contents
 
-<details>
-<summary>Core Pipelines</summary>
-  
-| Project | Modality | Repo | Date|
-|----------|-----------|------|----|
-| DAC-RNAseq-pipeline | Pipeline| [Github](https://github.com/Dartmouth-Data-Analytics-Core/DAC-RNAseq-pipeline)| 11/12/2019 |
-| GDSC-miRNAseq-analysis-pipeline| Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-miRNAseq-analysis-pipeline) | 3/20/2023
-| GDSC-clover-Seq | Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-clover-Seq) | 10/22/2025 |
-| GDSC-MGX-Pipeline | Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-MGX-Pipieline) |10/2/2025 |
-| GDSC-HyperTRIBE-pipeline | Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-HyperTRIBE-pipeline) | 4/25/2025 |
-| DAC-Barcode-Seq-pipeline | Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/DAC-Barcode-Seq-pipeline) | 3/26/2025 |
-| DAC-BulkATAC-Seq-pipeline | Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/DAC-BulkATAC-Seq-pipeline) | 4/4/2025 |
-| DAC-WES-pipeline | Pipeline | [Github](https://github.com/Dartmouth-Data-Analytics-Core/DAC-WES-pipeline) | 3/5/2025 |
-| Prebuilt_Pixi_Workspaces | Pipeline | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/Prebuilt_Pixi_Workspaces) | 3/20/2026 |
-| snakemake_DARLIN_mod | Pipeline | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/snakemake_DARLIN_mod) | 4/2/2026 |
+- [Core Infrastructure](#core-infrastructure) — pipelines, SOPs, and tooling
+- [Client Projects](#client-projects) — collaborations grouped by PI
+- [Modality Distribution](#modality-distribution)
 
-</details>
+---
 
-<details>
-<summary>Core SOPs</summary>
-  
-| Project | Modality | Repo | Date|
-|----------|-----------|------|----|
-| GDSC-Pixi-SOP | SOP | [Github](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Pixi-SOP) | 1/19/2026 |
-| GEO-submission-file-management | SOP | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/GEO-submission-file-management) | 3/20/2026 |
+## Core Infrastructure
+
+Reusable assets developed and maintained by the core.
+
+<details open>
+<summary><b>Pipelines</b> (10)</summary>
+
+| Project | Modality | Started |
+|---------|----------|---------|
+| [DAC-RNAseq-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/DAC-RNAseq-pipeline) | Bulk RNA-Seq | 2019-11-12 |
+| [GDSC-miRNAseq-analysis-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-miRNAseq-analysis-pipeline) | miRNA-Seq | 2023-03-20 |
+| [DAC-WES-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/DAC-WES-pipeline) | WES | 2025-03-05 |
+| [DAC-Barcode-Seq-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/DAC-Barcode-Seq-pipeline) | Barcode-Seq | 2025-03-26 |
+| [DAC-BulkATAC-Seq-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/DAC-BulkATAC-Seq-pipeline) | Epigenetics | 2025-04-04 |
+| [GDSC-HyperTRIBE-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-HyperTRIBE-pipeline) | HyperTRIBE | 2025-04-25 |
+| [GDSC-MGX-Pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-MGX-Pipieline) | Metagenomics | 2025-10-02 |
+| [GDSC-clover-Seq](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-clover-Seq) | Clover-Seq | 2025-10-22 |
+| [Prebuilt_Pixi_Workspaces](https://github.com/Dartmouth-Data-Analytics-Core/Prebuilt_Pixi_Workspaces) | Tooling | 2026-03-20 |
+| [snakemake_DARLIN_mod](https://github.com/Dartmouth-Data-Analytics-Core/snakemake_DARLIN_mod) | Lineage tracing | 2026-04-02 |
+
+<!-- NOTE: GDSC-MGX-Pipeline URL contains "Pipieline" typo - verify whether that matches the actual repo name -->
 
 </details>
 
 <details>
-<summary>Ashare</summary>
+<summary><b>SOPs</b> (2)</summary>
 
-| Project | Modality | Repo | Date |
-|---------|----------|------|------|
-|250618_10x_flex_Ashare_scRNA| scRNA-Seq |[Github](https://github.com/Dartmouth-Data-Analytics-Core/250618_10x_flex_Ashare_scRNA)|06/18/2025|
-</details>
-
-<details>
-<summary>Dunlap</summary>
-  
-| Project | Modality | Repo | Date|
-|----------|-----------|------|----|
-|250708-dunlap-atac| Epigenetics| [Github](https://github.com/Dartmouth-Data-Analytics-Core/250708-dunlap-atac)| 07/08/2025 |
+| Project | Topic | Started |
+|---------|-------|---------|
+| [GDSC-Pixi-SOP](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Pixi-SOP) | Pixi environment management | 2026-01-19 |
+| [GEO-submission-file-management](https://github.com/Dartmouth-Data-Analytics-Core/GEO-submission-file-management) | GEO submissions | 2026-03-20 |
 
 </details>
 
 <details>
-<summary>Fiering</summary>
+<summary><b>Development & Benchmarking</b> (1)</summary>
 
-| Project | Modality | Repo | Date |
-|----------|-----------|------|------|
-| 250916-Fiering-DGE | RNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/250916-Fiering-DGE) | 09/16/2025 |
+| Project | Focus | Started |
+|---------|-------|---------|
+| [miRNA-pipeline-comparison](https://github.com/Dartmouth-Data-Analytics-Core/miRNA-pipeline-comparison) | Pipeline benchmarking | 2025-11-21 |
+
+</details>
+
+---
+
+## Client Projects
+
+Analyses delivered to collaborating Dartmouth labs. Click a PI to expand their projects.
+
+<details>
+<summary><b>Ashare</b> (1)</summary>
+
+| Project | Modality | Started |
+|---------|----------|---------|
+| [250618_10x_flex_Ashare_scRNA](https://github.com/Dartmouth-Data-Analytics-Core/250618_10x_flex_Ashare_scRNA) | scRNA-Seq | 2025-06-18 |
 
 </details>
 
 <details>
-<summary>Godek</summary>
+<summary><b>Dunlap</b> (1)</summary>
 
-| Project | Modality | Repo | Date |
-|----------|-----------|------|------|
-| 251014_godek_resolveOME | ResolveOME | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/251014_godek_resolveOME) | 10/14/2025 |
-
-</details>
-
-<details>
-<summary>Goods</summary>
-
-| Project | Modality | Repo | Date |
-|----------|-----------|------|------|
-| 251006_DNASeq_goods | MGX | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/251006_DNAseq_goods) | 10/06/2025 |
-| 251217-Goods-DEGs| RNA-Seq| [Github](https://github.com/Dartmouth-Data-Analytics-Core/251217-Goods-DEGs) | 12/17/2025 |
+| Project | Modality | Started |
+|---------|----------|---------|
+| [250708-dunlap-atac](https://github.com/Dartmouth-Data-Analytics-Core/250708-dunlap-atac) | Epigenetics | 2025-07-08 |
 
 </details>
 
 <details>
-<summary>Kasper</summary>
+<summary><b>Fiering</b> (1)</summary>
 
-| Project | Modality | Repo | Date |
-|----------|-----------|------|------|
-| kasper_250613_10x_multiome | 10x multiome | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/kasper_250613_10x_multiome) | 06/13/2025 |
-
-</details>
-
-<details>
-<summary>Lacefield</summary>
-
-| Project | Modality | Repo | Date |
-|----------|-----------|------|------|
-| 260323-Lacefield-HyperTRIBE | HyperTRIBE | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/260323-Lacefield-HyperTRIBE) | 03/23/2023 |
+| Project | Modality | Started |
+|---------|----------|---------|
+| [250916-Fiering-DGE](https://github.com/Dartmouth-Data-Analytics-Core/250916-Fiering-DGE) | RNA-Seq | 2025-09-16 |
 
 </details>
 
 <details>
-<summary>Leach</summary>
+<summary><b>Godek</b> (1)</summary>
 
-| Project | Modality | Repo | Date |
-|----------|-----------|------|------|
-| leach-260521-bulkATAC | Epigenetics | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/leach-260521-bulkATAC) | 05/21/2026 |
-
-</details>
-  
-<details>
-<summary>Leib</summary>
-
-| Project | Modality | Repo | Date |
-|----------|-----------|------|------|
-| 20250306-Leib-HSV1-Multiomics | RNA-Seq, Visium | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/20250306-Leib-HSV1-Multiomics) | 03/06/2025 |
+| Project | Modality | Started |
+|---------|----------|---------|
+| [251014_godek_resolveOME](https://github.com/Dartmouth-Data-Analytics-Core/251014_godek_resolveOME) | ResolveOME | 2025-10-14 |
 
 </details>
 
 <details>
-<summary>Malaney</summary>
+<summary><b>Goods</b> (2)</summary>
 
-| Project | Modality | Repo | Date |
-|----------|-----------|------|------|
-| 250922-Malaney-Colon-Cell-line-DEGs | RNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/250922-Malaney-Colon-Cell-line-DEGs) | 09/22/2025 |
-| 251201-Malaney-Lymphoma-Signature | RNA-Seq | [Github](https://github.com/Dartmouth-Data-Analytics-Core/251201-Malaney-Lymphoma-Signature) | 12/01/2025 | 
-
-</details>
-
-<details>
-<summary>Pioli</summary>
-
-| Project | Modality | Repo | Date |
-|----------|-----------|------|------|
-| 241105_pioli_scRNASeq |scRNA-Seq | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/241105_pioli_scRNAseq) | 11/05/2024 |
+| Project | Modality | Started |
+|---------|----------|---------|
+| [251006_DNASeq_goods](https://github.com/Dartmouth-Data-Analytics-Core/251006_DNAseq_goods) | Metagenomics | 2025-10-06 |
+| [251217-Goods-DEGs](https://github.com/Dartmouth-Data-Analytics-Core/251217-Goods-DEGs) | RNA-Seq | 2025-12-17 |
 
 </details>
 
 <details>
-<summary>Sundrud</summary>
+<summary><b>Kasper</b> (1)</summary>
 
-| Project | Modality | Repo | Date |
-|----------|-----------|------|------|
-| 251123-Sundrud-BarcodeSeq-Dev | workflow development  | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/251123-Sundrud-BarcodeSeq-Dev) | 11/23/2025 |
-
-</details>
-
-<details>
-<summary>Turk</summary>
-
-| Project | Modality | Repo | Date |
-|----------|-----------|------|------|
-| 250625_Turk_xenium | Xenium | [GitHub](https://github.com/Dartmouth-Data-Analytics-Core/250625_Turk_xenium) | 06/25/2025 |
+| Project | Modality | Started |
+|---------|----------|---------|
+| [kasper_250613_10x_multiome](https://github.com/Dartmouth-Data-Analytics-Core/kasper_250613_10x_multiome) | 10x Multiome | 2025-06-13 |
 
 </details>
 
 <details>
-<summary>Zhang</summary>
-  
-| Project | Modality | Repo | Date|
-|----------|-----------|------|----|
-|251028-Zhang-RNA-seq| RNA-Seq| [Github](https://github.com/Dartmouth-Data-Analytics-Core/251028-Zhang-RNA-seq)| 10/28/2025 |
+<summary><b>Lacefield</b> (1)</summary>
+
+| Project | Modality | Started |
+|---------|----------|---------|
+| [260323-Lacefield-HyperTRIBE](https://github.com/Dartmouth-Data-Analytics-Core/260323-Lacefield-HyperTRIBE) | HyperTRIBE | 2026-03-23 |
+
+<!-- NOTE: Original date was 03/23/2023 but prefix "260323" suggests 2026-03-23 - verify which is correct -->
 
 </details>
 
+<details>
+<summary><b>Leach</b> (1)</summary>
 
-<!-- START: modality-counts -->
+| Project | Modality | Started |
+|---------|----------|---------|
+| [leach-260521-bulkATAC](https://github.com/Dartmouth-Data-Analytics-Core/leach-260521-bulkATAC) | Epigenetics | 2026-05-21 |
 
-### Modality Distribution
+</details>
+
+<details>
+<summary><b>Leib</b> (1)</summary>
+
+| Project | Modality | Started |
+|---------|----------|---------|
+| [20250306-Leib-HSV1-Multiomics](https://github.com/Dartmouth-Data-Analytics-Core/20250306-Leib-HSV1-Multiomics) | RNA-Seq, Visium | 2025-03-06 |
+
+</details>
+
+<details>
+<summary><b>Malaney</b> (2)</summary>
+
+| Project | Modality | Started |
+|---------|----------|---------|
+| [250922-Malaney-Colon-Cell-line-DEGs](https://github.com/Dartmouth-Data-Analytics-Core/250922-Malaney-Colon-Cell-line-DEGs) | RNA-Seq | 2025-09-22 |
+| [251201-Malaney-Lymphoma-Signature](https://github.com/Dartmouth-Data-Analytics-Core/251201-Malaney-Lymphoma-Signature) | RNA-Seq | 2025-12-01 |
+
+</details>
+
+<details>
+<summary><b>Pioli</b> (1)</summary>
+
+| Project | Modality | Started |
+|---------|----------|---------|
+| [241105_pioli_scRNASeq](https://github.com/Dartmouth-Data-Analytics-Core/241105_pioli_scRNAseq) | scRNA-Seq | 2024-11-05 |
+
+</details>
+
+<details>
+<summary><b>Sundrud</b> (1)</summary>
+
+| Project | Modality | Started |
+|---------|----------|---------|
+| [251123-Sundrud-BarcodeSeq-Dev](https://github.com/Dartmouth-Data-Analytics-Core/251123-Sundrud-BarcodeSeq-Dev) | Barcode-Seq development | 2025-11-23 |
+
+</details>
+
+<details>
+<summary><b>Turk</b> (1)</summary>
+
+| Project | Modality | Started |
+|---------|----------|---------|
+| [250625_Turk_xenium](https://github.com/Dartmouth-Data-Analytics-Core/250625_Turk_xenium) | 10x Xenium | 2025-06-25 |
+
+</details>
+
+<details>
+<summary><b>Zhang</b> (1)</summary>
+
+| Project | Modality | Started |
+|---------|----------|---------|
+| [251028-Zhang-RNA-seq](https://github.com/Dartmouth-Data-Analytics-Core/251028-Zhang-RNA-seq) | RNA-Seq | 2025-10-28 |
+
+</details>
+
+## Modality Distribution
 
 <p align="center">
   <img src=".github/modality-badge.svg" alt="Modality Distribution" />
@@ -187,7 +209,7 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 | Epigenetics | 2 |
 | scRNA-Seq | 2 |
 | SOP | 2 |
-| Workflow development | 2 |
+| Workflow Development | 2 |
 | 10x Multiome | 1 |
 | 10x Visium | 1 |
 | 10x Xenium | 1 |
@@ -197,12 +219,4 @@ The **GDSC** aims to facilitate advanced bioinformatic, computational, and stati
 
 </details>
 
-<!-- END: modality-counts -->
-
-
-
-
-
-
-
-
+---
