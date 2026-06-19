@@ -6,15 +6,7 @@ This repository serves as the public index of our work: reusable pipelines and S
 
 ---
 
-### Contents
-
-- [Core Infrastructure](#core-infrastructure) — pipelines, SOPs, and tooling
-- [Client Projects](#client-projects) — collaborations grouped by PI
-- [Modality Distribution](#modality-distribution)
-
----
-
-## Core Infrastructure
+## Core Infrastructure and Pipelines
 
 Reusable assets developed and maintained by the core.
 
@@ -39,12 +31,13 @@ Reusable assets developed and maintained by the core.
 </details>
 
 <details>
-<summary><b>SOPs</b> (2)</summary>
+<summary><b>SOPs</b> (3)</summary>
 
 | Project | Topic | Started |
 |---------|-------|---------|
 | [GDSC-Pixi-SOP](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Pixi-SOP) | Pixi environment management | 2026-01-19 |
 | [GEO-submission-file-management](https://github.com/Dartmouth-Data-Analytics-Core/GEO-submission-file-management) | GEO submissions | 2026-03-20 |
+| [Snakemake-docker-backend-SOP](https://github.com/Dartmouth-Data-Analytics-Core/Snakemake-docker-backend-SOP) | Docker | 2026-06-19 |
 
 </details>
 
@@ -193,73 +186,5 @@ Analyses delivered to collaborating Dartmouth labs. Click a PI to expand their p
 
 </details>
 
-## Modality Distribution
 
-<p align="center">
-  <img src=".github/modality-badge.svg" alt="Modality Distribution" />
-</p>
 
-<details>
-<summary>View as table</summary>
-
-| Modality | Count |
-|----------|-------|
-| Pipeline | 10 |
-| Bulk-Transcriptomics | 6 |
-| Epigenetics | 2 |
-| scRNA-Seq | 2 |
-| SOP | 2 |
-| Workflow Development | 2 |
-| 10x Multiome | 1 |
-| 10x Visium | 1 |
-| 10x Xenium | 1 |
-| HyperTRIBE | 1 |
-| Metagenomics | 1 |
-| ResolveOME | 1 |
-
-</details>
-
----
-
-<!-- START: modality-counts -->
-
-### Modality Distribution
-
-<p align="center">
-  <img src=".github/modality-badge.svg" alt="Modality Distribution" />
-</p>
-
-<details>
-<summary>View as table</summary>
-
-| Modality | Count |
-|----------|-------|
-| 1 | 6 |
-| Bulk-Transcriptomics | 6 |
-| 2 | 4 |
-| Epigenetics | 3 |
-| HyperTRIBE | 2 |
-| Metagenomics | 2 |
-| scRNA-Seq | 2 |
-| 10 | 1 |
-| 10x Multiome | 1 |
-| 10x Visium | 1 |
-| 10x Xenium | 1 |
-| 6 | 1 |
-| Barcode-Seq | 1 |
-| Barcode-Seq development | 1 |
-| Bulk RNA-Seq | 1 |
-| Clover-Seq | 1 |
-| Count | 1 |
-| GEO submissions | 1 |
-| Lineage tracing | 1 |
-| miRNA-Seq | 1 |
-| Pipeline benchmarking | 1 |
-| Pixi environment management | 1 |
-| ResolveOME | 1 |
-| Tooling | 1 |
-| WES | 1 |
-
-</details>
-
-<!-- END: modality-counts -->
