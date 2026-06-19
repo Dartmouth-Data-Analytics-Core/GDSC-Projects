@@ -1,4 +1,4 @@
-<svg width="600" height="653" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="553" xmlns="http://www.w3.org/2000/svg">
   <style>
     .legend-text { 
       font: 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; 
@@ -11,157 +11,133 @@
     }
   </style>
   <g id="bar">
-    <rect x="0.00" y="0" width="83.72" height="8" fill="#cccccc">
-      <title>1: 6 (14.0%)</title>
+    <rect x="0.00" y="0" width="116.13" height="8" fill="#e34c26">
+      <title>Bulk-Transcriptomics: 6 (19.4%)</title>
     </rect>
-    <rect x="83.72" y="0" width="83.72" height="8" fill="#e34c26">
-      <title>Bulk-Transcriptomics: 6 (14.0%)</title>
+    <rect x="116.13" y="0" width="58.06" height="8" fill="#cccccc">
+      <title>Epigenetics: 3 (9.7%)</title>
     </rect>
-    <rect x="167.44" y="0" width="55.81" height="8" fill="#cccccc">
-      <title>2: 4 (9.3%)</title>
+    <rect x="174.19" y="0" width="38.71" height="8" fill="#cccccc">
+      <title>HyperTRIBE: 2 (6.5%)</title>
     </rect>
-    <rect x="223.26" y="0" width="41.86" height="8" fill="#cccccc">
-      <title>Epigenetics: 3 (7.0%)</title>
+    <rect x="212.90" y="0" width="38.71" height="8" fill="#701516">
+      <title>Metagenomics: 2 (6.5%)</title>
     </rect>
-    <rect x="265.12" y="0" width="27.91" height="8" fill="#cccccc">
-      <title>HyperTRIBE: 2 (4.7%)</title>
+    <rect x="251.61" y="0" width="38.71" height="8" fill="#3572A5">
+      <title>scRNA-Seq: 2 (6.5%)</title>
     </rect>
-    <rect x="293.02" y="0" width="27.91" height="8" fill="#701516">
-      <title>Metagenomics: 2 (4.7%)</title>
+    <rect x="290.32" y="0" width="19.35" height="8" fill="#f1e05a">
+      <title>10x Multiome: 1 (3.2%)</title>
     </rect>
-    <rect x="320.93" y="0" width="27.91" height="8" fill="#3572A5">
-      <title>scRNA-Seq: 2 (4.7%)</title>
+    <rect x="309.68" y="0" width="19.35" height="8" fill="#4F5D95">
+      <title>10x Visium: 1 (3.2%)</title>
     </rect>
-    <rect x="348.84" y="0" width="13.95" height="8" fill="#cccccc">
-      <title>10: 1 (2.3%)</title>
+    <rect x="329.03" y="0" width="19.35" height="8" fill="#DA5B0B">
+      <title>10x Xenium: 1 (3.2%)</title>
     </rect>
-    <rect x="362.79" y="0" width="13.95" height="8" fill="#f1e05a">
-      <title>10x Multiome: 1 (2.3%)</title>
+    <rect x="348.39" y="0" width="19.35" height="8" fill="#cccccc">
+      <title>Barcode-Seq: 1 (3.2%)</title>
     </rect>
-    <rect x="376.74" y="0" width="13.95" height="8" fill="#4F5D95">
-      <title>10x Visium: 1 (2.3%)</title>
+    <rect x="367.74" y="0" width="19.35" height="8" fill="#cccccc">
+      <title>Barcode-Seq development: 1 (3.2%)</title>
     </rect>
-    <rect x="390.70" y="0" width="13.95" height="8" fill="#DA5B0B">
-      <title>10x Xenium: 1 (2.3%)</title>
+    <rect x="387.10" y="0" width="19.35" height="8" fill="#cccccc">
+      <title>Bulk RNA-Seq: 1 (3.2%)</title>
     </rect>
-    <rect x="404.65" y="0" width="13.95" height="8" fill="#cccccc">
-      <title>6: 1 (2.3%)</title>
+    <rect x="406.45" y="0" width="19.35" height="8" fill="#cccccc">
+      <title>Clover-Seq: 1 (3.2%)</title>
     </rect>
-    <rect x="418.60" y="0" width="13.95" height="8" fill="#cccccc">
-      <title>Barcode-Seq: 1 (2.3%)</title>
+    <rect x="425.81" y="0" width="19.35" height="8" fill="#cccccc">
+      <title>Docker: 1 (3.2%)</title>
     </rect>
-    <rect x="432.56" y="0" width="13.95" height="8" fill="#cccccc">
-      <title>Barcode-Seq development: 1 (2.3%)</title>
+    <rect x="445.16" y="0" width="19.35" height="8" fill="#cccccc">
+      <title>GEO submissions: 1 (3.2%)</title>
     </rect>
-    <rect x="446.51" y="0" width="13.95" height="8" fill="#cccccc">
-      <title>Bulk RNA-Seq: 1 (2.3%)</title>
+    <rect x="464.52" y="0" width="19.35" height="8" fill="#cccccc">
+      <title>Lineage tracing: 1 (3.2%)</title>
     </rect>
-    <rect x="460.47" y="0" width="13.95" height="8" fill="#cccccc">
-      <title>Clover-Seq: 1 (2.3%)</title>
+    <rect x="483.87" y="0" width="19.35" height="8" fill="#cccccc">
+      <title>miRNA-Seq: 1 (3.2%)</title>
     </rect>
-    <rect x="474.42" y="0" width="13.95" height="8" fill="#cccccc">
-      <title>Count: 1 (2.3%)</title>
+    <rect x="503.23" y="0" width="19.35" height="8" fill="#cccccc">
+      <title>Pipeline benchmarking: 1 (3.2%)</title>
     </rect>
-    <rect x="488.37" y="0" width="13.95" height="8" fill="#cccccc">
-      <title>GEO submissions: 1 (2.3%)</title>
+    <rect x="522.58" y="0" width="19.35" height="8" fill="#cccccc">
+      <title>Pixi environment management: 1 (3.2%)</title>
     </rect>
-    <rect x="502.33" y="0" width="13.95" height="8" fill="#cccccc">
-      <title>Lineage tracing: 1 (2.3%)</title>
+    <rect x="541.94" y="0" width="19.35" height="8" fill="#b07219">
+      <title>ResolveOME: 1 (3.2%)</title>
     </rect>
-    <rect x="516.28" y="0" width="13.95" height="8" fill="#cccccc">
-      <title>miRNA-Seq: 1 (2.3%)</title>
+    <rect x="561.29" y="0" width="19.35" height="8" fill="#cccccc">
+      <title>Tooling: 1 (3.2%)</title>
     </rect>
-    <rect x="530.23" y="0" width="13.95" height="8" fill="#cccccc">
-      <title>Pipeline benchmarking: 1 (2.3%)</title>
-    </rect>
-    <rect x="544.19" y="0" width="13.95" height="8" fill="#cccccc">
-      <title>Pixi environment management: 1 (2.3%)</title>
-    </rect>
-    <rect x="558.14" y="0" width="13.95" height="8" fill="#b07219">
-      <title>ResolveOME: 1 (2.3%)</title>
-    </rect>
-    <rect x="572.09" y="0" width="13.95" height="8" fill="#cccccc">
-      <title>Tooling: 1 (2.3%)</title>
-    </rect>
-    <rect x="586.05" y="0" width="13.95" height="8" fill="#cccccc">
-      <title>WES: 1 (2.3%)</title>
+    <rect x="580.65" y="0" width="19.35" height="8" fill="#cccccc">
+      <title>WES: 1 (3.2%)</title>
     </rect>
   </g>
   <g id="legend">
-    <circle cx="6" cy="28" r="5" fill="#cccccc"/>
-    <text x="18" y="32" class="legend-text">1</text>
-    <text x="590" y="32" class="legend-percent" text-anchor="end">14.0% (6)</text>
-    <circle cx="6" cy="53" r="5" fill="#e34c26"/>
-    <text x="18" y="57" class="legend-text">Bulk-Transcriptomics</text>
-    <text x="590" y="57" class="legend-percent" text-anchor="end">14.0% (6)</text>
+    <circle cx="6" cy="28" r="5" fill="#e34c26"/>
+    <text x="18" y="32" class="legend-text">Bulk-Transcriptomics</text>
+    <text x="590" y="32" class="legend-percent" text-anchor="end">19.4% (6)</text>
+    <circle cx="6" cy="53" r="5" fill="#cccccc"/>
+    <text x="18" y="57" class="legend-text">Epigenetics</text>
+    <text x="590" y="57" class="legend-percent" text-anchor="end">9.7% (3)</text>
     <circle cx="6" cy="78" r="5" fill="#cccccc"/>
-    <text x="18" y="82" class="legend-text">2</text>
-    <text x="590" y="82" class="legend-percent" text-anchor="end">9.3% (4)</text>
-    <circle cx="6" cy="103" r="5" fill="#cccccc"/>
-    <text x="18" y="107" class="legend-text">Epigenetics</text>
-    <text x="590" y="107" class="legend-percent" text-anchor="end">7.0% (3)</text>
-    <circle cx="6" cy="128" r="5" fill="#cccccc"/>
-    <text x="18" y="132" class="legend-text">HyperTRIBE</text>
-    <text x="590" y="132" class="legend-percent" text-anchor="end">4.7% (2)</text>
-    <circle cx="6" cy="153" r="5" fill="#701516"/>
-    <text x="18" y="157" class="legend-text">Metagenomics</text>
-    <text x="590" y="157" class="legend-percent" text-anchor="end">4.7% (2)</text>
-    <circle cx="6" cy="178" r="5" fill="#3572A5"/>
-    <text x="18" y="182" class="legend-text">scRNA-Seq</text>
-    <text x="590" y="182" class="legend-percent" text-anchor="end">4.7% (2)</text>
-    <circle cx="6" cy="203" r="5" fill="#cccccc"/>
-    <text x="18" y="207" class="legend-text">10</text>
-    <text x="590" y="207" class="legend-percent" text-anchor="end">2.3% (1)</text>
-    <circle cx="6" cy="228" r="5" fill="#f1e05a"/>
-    <text x="18" y="232" class="legend-text">10x Multiome</text>
-    <text x="590" y="232" class="legend-percent" text-anchor="end">2.3% (1)</text>
-    <circle cx="6" cy="253" r="5" fill="#4F5D95"/>
-    <text x="18" y="257" class="legend-text">10x Visium</text>
-    <text x="590" y="257" class="legend-percent" text-anchor="end">2.3% (1)</text>
-    <circle cx="6" cy="278" r="5" fill="#DA5B0B"/>
-    <text x="18" y="282" class="legend-text">10x Xenium</text>
-    <text x="590" y="282" class="legend-percent" text-anchor="end">2.3% (1)</text>
+    <text x="18" y="82" class="legend-text">HyperTRIBE</text>
+    <text x="590" y="82" class="legend-percent" text-anchor="end">6.5% (2)</text>
+    <circle cx="6" cy="103" r="5" fill="#701516"/>
+    <text x="18" y="107" class="legend-text">Metagenomics</text>
+    <text x="590" y="107" class="legend-percent" text-anchor="end">6.5% (2)</text>
+    <circle cx="6" cy="128" r="5" fill="#3572A5"/>
+    <text x="18" y="132" class="legend-text">scRNA-Seq</text>
+    <text x="590" y="132" class="legend-percent" text-anchor="end">6.5% (2)</text>
+    <circle cx="6" cy="153" r="5" fill="#f1e05a"/>
+    <text x="18" y="157" class="legend-text">10x Multiome</text>
+    <text x="590" y="157" class="legend-percent" text-anchor="end">3.2% (1)</text>
+    <circle cx="6" cy="178" r="5" fill="#4F5D95"/>
+    <text x="18" y="182" class="legend-text">10x Visium</text>
+    <text x="590" y="182" class="legend-percent" text-anchor="end">3.2% (1)</text>
+    <circle cx="6" cy="203" r="5" fill="#DA5B0B"/>
+    <text x="18" y="207" class="legend-text">10x Xenium</text>
+    <text x="590" y="207" class="legend-percent" text-anchor="end">3.2% (1)</text>
+    <circle cx="6" cy="228" r="5" fill="#cccccc"/>
+    <text x="18" y="232" class="legend-text">Barcode-Seq</text>
+    <text x="590" y="232" class="legend-percent" text-anchor="end">3.2% (1)</text>
+    <circle cx="6" cy="253" r="5" fill="#cccccc"/>
+    <text x="18" y="257" class="legend-text">Barcode-Seq development</text>
+    <text x="590" y="257" class="legend-percent" text-anchor="end">3.2% (1)</text>
+    <circle cx="6" cy="278" r="5" fill="#cccccc"/>
+    <text x="18" y="282" class="legend-text">Bulk RNA-Seq</text>
+    <text x="590" y="282" class="legend-percent" text-anchor="end">3.2% (1)</text>
     <circle cx="6" cy="303" r="5" fill="#cccccc"/>
-    <text x="18" y="307" class="legend-text">6</text>
-    <text x="590" y="307" class="legend-percent" text-anchor="end">2.3% (1)</text>
+    <text x="18" y="307" class="legend-text">Clover-Seq</text>
+    <text x="590" y="307" class="legend-percent" text-anchor="end">3.2% (1)</text>
     <circle cx="6" cy="328" r="5" fill="#cccccc"/>
-    <text x="18" y="332" class="legend-text">Barcode-Seq</text>
-    <text x="590" y="332" class="legend-percent" text-anchor="end">2.3% (1)</text>
+    <text x="18" y="332" class="legend-text">Docker</text>
+    <text x="590" y="332" class="legend-percent" text-anchor="end">3.2% (1)</text>
     <circle cx="6" cy="353" r="5" fill="#cccccc"/>
-    <text x="18" y="357" class="legend-text">Barcode-Seq development</text>
-    <text x="590" y="357" class="legend-percent" text-anchor="end">2.3% (1)</text>
+    <text x="18" y="357" class="legend-text">GEO submissions</text>
+    <text x="590" y="357" class="legend-percent" text-anchor="end">3.2% (1)</text>
     <circle cx="6" cy="378" r="5" fill="#cccccc"/>
-    <text x="18" y="382" class="legend-text">Bulk RNA-Seq</text>
-    <text x="590" y="382" class="legend-percent" text-anchor="end">2.3% (1)</text>
+    <text x="18" y="382" class="legend-text">Lineage tracing</text>
+    <text x="590" y="382" class="legend-percent" text-anchor="end">3.2% (1)</text>
     <circle cx="6" cy="403" r="5" fill="#cccccc"/>
-    <text x="18" y="407" class="legend-text">Clover-Seq</text>
-    <text x="590" y="407" class="legend-percent" text-anchor="end">2.3% (1)</text>
+    <text x="18" y="407" class="legend-text">miRNA-Seq</text>
+    <text x="590" y="407" class="legend-percent" text-anchor="end">3.2% (1)</text>
     <circle cx="6" cy="428" r="5" fill="#cccccc"/>
-    <text x="18" y="432" class="legend-text">Count</text>
-    <text x="590" y="432" class="legend-percent" text-anchor="end">2.3% (1)</text>
+    <text x="18" y="432" class="legend-text">Pipeline benchmarking</text>
+    <text x="590" y="432" class="legend-percent" text-anchor="end">3.2% (1)</text>
     <circle cx="6" cy="453" r="5" fill="#cccccc"/>
-    <text x="18" y="457" class="legend-text">GEO submissions</text>
-    <text x="590" y="457" class="legend-percent" text-anchor="end">2.3% (1)</text>
-    <circle cx="6" cy="478" r="5" fill="#cccccc"/>
-    <text x="18" y="482" class="legend-text">Lineage tracing</text>
-    <text x="590" y="482" class="legend-percent" text-anchor="end">2.3% (1)</text>
+    <text x="18" y="457" class="legend-text">Pixi environment management</text>
+    <text x="590" y="457" class="legend-percent" text-anchor="end">3.2% (1)</text>
+    <circle cx="6" cy="478" r="5" fill="#b07219"/>
+    <text x="18" y="482" class="legend-text">ResolveOME</text>
+    <text x="590" y="482" class="legend-percent" text-anchor="end">3.2% (1)</text>
     <circle cx="6" cy="503" r="5" fill="#cccccc"/>
-    <text x="18" y="507" class="legend-text">miRNA-Seq</text>
-    <text x="590" y="507" class="legend-percent" text-anchor="end">2.3% (1)</text>
+    <text x="18" y="507" class="legend-text">Tooling</text>
+    <text x="590" y="507" class="legend-percent" text-anchor="end">3.2% (1)</text>
     <circle cx="6" cy="528" r="5" fill="#cccccc"/>
-    <text x="18" y="532" class="legend-text">Pipeline benchmarking</text>
-    <text x="590" y="532" class="legend-percent" text-anchor="end">2.3% (1)</text>
-    <circle cx="6" cy="553" r="5" fill="#cccccc"/>
-    <text x="18" y="557" class="legend-text">Pixi environment management</text>
-    <text x="590" y="557" class="legend-percent" text-anchor="end">2.3% (1)</text>
-    <circle cx="6" cy="578" r="5" fill="#b07219"/>
-    <text x="18" y="582" class="legend-text">ResolveOME</text>
-    <text x="590" y="582" class="legend-percent" text-anchor="end">2.3% (1)</text>
-    <circle cx="6" cy="603" r="5" fill="#cccccc"/>
-    <text x="18" y="607" class="legend-text">Tooling</text>
-    <text x="590" y="607" class="legend-percent" text-anchor="end">2.3% (1)</text>
-    <circle cx="6" cy="628" r="5" fill="#cccccc"/>
-    <text x="18" y="632" class="legend-text">WES</text>
-    <text x="590" y="632" class="legend-percent" text-anchor="end">2.3% (1)</text>
+    <text x="18" y="532" class="legend-text">WES</text>
+    <text x="590" y="532" class="legend-percent" text-anchor="end">3.2% (1)</text>
   </g>
 </svg>
