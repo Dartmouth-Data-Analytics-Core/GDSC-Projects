@@ -233,9 +233,9 @@ Analyses delivered to collaborating Dartmouth labs. Click a PI to expand their p
 | Modality | Count |
 |----------|-------|
 | Bulk-Transcriptomics | 6 |
+| Metagenomics | 4 |
 | Epigenetics | 3 |
 | HyperTRIBE | 2 |
-| Metagenomics | 2 |
 | scRNA-Seq | 2 |
 | 10x Multiome | 1 |
 | 10x Visium | 1 |
@@ -243,6 +243,7 @@ Analyses delivered to collaborating Dartmouth labs. Click a PI to expand their p
 | Barcode-Seq | 1 |
 | Barcode-Seq development | 1 |
 | Bulk RNA-Seq | 1 |
+| Bulk-RNASeq | 1 |
 | Clover-Seq | 1 |
 | Docker | 1 |
 | GEO submissions | 1 |
