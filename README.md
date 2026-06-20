@@ -57,6 +57,15 @@ Reusable assets developed and maintained by the core.
 Analyses delivered to collaborating Dartmouth labs. Click a PI to expand their projects.
 
 <details>
+<summary>>b>Alewine<b> (1)</b></summary>
+
+| Project | Modality | Started |
+|---------|----------|---------|
+| [alewine_260611_RNAseq_pdx](https://github.com/Dartmouth-Data-Analytics-Core/alewine_260611_RNAseq_pdx) | Bulk-RNASeq | 2026-06-19 |
+  
+</details>
+
+<details>
 <summary><b>Ashare</b> (1)</summary>
 
 | Project | Modality | Started |
@@ -84,6 +93,16 @@ Analyses delivered to collaborating Dartmouth labs. Click a PI to expand their p
 </details>
 
 <details>
+<summary><b>Ghosh</b> (1)</summary>
+
+| Project | Modality | Started |
+|---------|----------|---------|
+| [ghosh_260507_DNASeq_MGX](https://github.com/Dartmouth-Data-Analytics-Core/ghosh_260507_DNASeq_MGX) | Metagenomics | 2026-06-19 |
+
+
+</details>
+
+<details>
 <summary><b>Godek</b> (1)</summary>
 
 | Project | Modality | Started |
@@ -101,6 +120,17 @@ Analyses delivered to collaborating Dartmouth labs. Click a PI to expand their p
 | [251217-Goods-DEGs](https://github.com/Dartmouth-Data-Analytics-Core/251217-Goods-DEGs) | RNA-Seq | 2025-12-17 |
 
 </details>
+
+<details>
+<summary><b>Hampton</b> (1)</summary>
+
+| Project | Modality | Started |
+|---------|----------|---------|
+| [hampton_260609_pa_doac](https://github.com/Dartmouth-Data-Analytics-Core/hampton_260609_pa_doac) | Metagenomics | 2026-06-19 |
+
+
+</details>
+
 
 <details>
 <summary><b>Kasper</b> (1)</summary>
