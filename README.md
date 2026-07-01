@@ -31,6 +31,15 @@ Reusable assets developed and maintained by the core.
 </details>
 
 <details>
+<summary><b>Claude Skills</b> (1)</summary>
+
+| Project | Topic | Started |
+|---------|-------|---------|
+| [GDSC-QC-Data-Skills](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-QC-Data-SkillsP) | RNASeq QC and Write up Skill | 2026-07-01 |
+
+</details>
+
+<details>
 <summary><b>SOPs</b> (3)</summary>
 
 | Project | Topic | Started |
