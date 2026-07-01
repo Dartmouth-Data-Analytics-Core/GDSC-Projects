@@ -66,7 +66,7 @@ Reusable assets developed and maintained by the core.
 Analyses delivered to collaborating Dartmouth labs. Click a PI to expand their projects.
 
 <details>
-<summary>>b>Alewine<b> (1)</b></summary>
+<summary><b>Alewine<b> (1)</b></summary>
 
 | Project | Modality | Started |
 |---------|----------|---------|
