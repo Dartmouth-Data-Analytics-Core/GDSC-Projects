@@ -11,7 +11,7 @@ This repository serves as the public index of our work: reusable pipelines and S
 Reusable assets developed and maintained by the core.
 
 <details open>
-<summary><b>Pipelines</b> (10)</summary>
+<summary><b>Pipelines</b> (9)</summary>
 
 | Project | Modality | Started |
 |---------|----------|---------|
@@ -23,10 +23,17 @@ Reusable assets developed and maintained by the core.
 | [GDSC-HyperTRIBE-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-HyperTRIBE-pipeline) | HyperTRIBE | 2025-04-25 |
 | [GDSC-MGX-Pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-MGX-Pipieline) | Metagenomics | 2025-10-02 |
 | [GDSC-clover-Seq](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-clover-Seq) | Clover-Seq | 2025-10-22 |
-| [Prebuilt_Pixi_Workspaces](https://github.com/Dartmouth-Data-Analytics-Core/Prebuilt_Pixi_Workspaces) | Tooling | 2026-03-20 |
 | [snakemake_DARLIN_mod](https://github.com/Dartmouth-Data-Analytics-Core/snakemake_DARLIN_mod) | Lineage tracing | 2026-04-02 |
 
-<!-- NOTE: GDSC-MGX-Pipeline URL contains "Pipieline" typo - verify whether that matches the actual repo name -->
+</details>
+
+<details>
+<summary><b>Utilities and Tooling</b> (2)</summary>
+
+| Project | Modality | Started |
+|---------|----------|---------|
+| [Prebuilt_Pixi_Workspaces](https://github.com/Dartmouth-Data-Analytics-Core/Prebuilt_Pixi_Workspaces) | Tooling | 2026-03-20 |
+| [DARLIN-allele-table-builder](https://github.com/Dartmouth-Data-Analytics-Core/DARLIN-allele-table-builder) | Tooling | 2026-07-17 |
 
 </details>
 
@@ -35,7 +42,7 @@ Reusable assets developed and maintained by the core.
 
 | Project | Topic | Started |
 |---------|-------|---------|
-| [GDSC-QC-Data-Skills](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-QC-Data-SkillsP) | RNASeq QC and Write up Skill | 2026-07-01 |
+| [GDSC-QC-Data-Skills](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-QC-Data-SkillsP) | RNA-Seq QC and Write-up Skill | 2026-07-01 |
 
 </details>
 
