@@ -23,6 +23,7 @@ Reusable assets developed and maintained by the core.
 | [GDSC-HyperTRIBE-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-HyperTRIBE-pipeline) | HyperTRIBE | 2025-04-25 |
 | [GDSC-MGX-Pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-MGX-Pipieline) | Metagenomics | 2025-10-02 |
 | [GDSC-clover-Seq](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-clover-Seq) | Clover-Seq | 2025-10-22 |
+| [GDSC-scClover-Seq](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-scClover-Seq) |scClover-Seq | 2026-07-30 |
 | [snakemake_DARLIN_mod](https://github.com/Dartmouth-Data-Analytics-Core/snakemake_DARLIN_mod) | Lineage tracing | 2026-04-02 |
 
 </details>
