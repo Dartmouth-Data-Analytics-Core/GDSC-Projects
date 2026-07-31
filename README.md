@@ -43,7 +43,7 @@ Reusable assets developed and maintained by the core.
 
 | Project | Topic | Started |
 |---------|-------|---------|
-| [GDSC-QC-Data-Skills](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-QC-Data-SkillsP) | RNA-Seq QC and Write-up Skill | 2026-07-01 |
+| [GDSC-QC-Data-Skills](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-QC-Data-Skills) | RNA-Seq QC and Write-up Skill | 2026-07-01 |
 
 </details>
 
