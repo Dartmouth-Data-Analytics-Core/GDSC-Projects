@@ -29,12 +29,13 @@ Reusable assets developed and maintained by the core.
 </details>
 
 <details>
-<summary><b>Utilities and Tooling</b> (2)</summary>
+<summary><b>Utilities and Tooling</b> (3)</summary>
 
 | Project | Modality | Started |
 |---------|----------|---------|
 | [Prebuilt_Pixi_Workspaces](https://github.com/Dartmouth-Data-Analytics-Core/Prebuilt_Pixi_Workspaces) | Tooling | 2026-03-20 |
 | [DARLIN-allele-table-builder](https://github.com/Dartmouth-Data-Analytics-Core/DARLIN-allele-table-builder) | Tooling | 2026-07-17 |
+| [Example-Preprocessing-Reports](https://github.com/Dartmouth-Data-Analytics-Core/Example_Preprocessing_Reports) | Utils | 2026-08-04 |
 
 </details>
 
