@@ -11,7 +11,7 @@ This repository serves as the public index of our work: reusable pipelines and S
 Reusable assets developed and maintained by the core.
 
 <details open>
-<summary><b>Pipelines</b> (9)</summary>
+<summary><b>Pipelines</b> (11)</summary>
 
 | Project | Modality | Started |
 |---------|----------|---------|
@@ -25,6 +25,7 @@ Reusable assets developed and maintained by the core.
 | [GDSC-clover-Seq](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-clover-Seq) | Clover-Seq | 2025-10-22 |
 | [GDSC-scClover-Seq](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-scClover-Seq) |scClover-Seq | 2026-07-30 |
 | [snakemake_DARLIN_mod](https://github.com/Dartmouth-Data-Analytics-Core/snakemake_DARLIN_mod) | Lineage tracing | 2026-04-02 |
+| [GDSC-Pa-AccuracyScore-Pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Pa-AccuracyScore-Pipeline) | Pseudomonas Scoring | 2026-08-04 |
 
 </details>
 
