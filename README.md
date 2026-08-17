@@ -150,13 +150,24 @@ Analyses delivered to collaborating Dartmouth labs. Click a PI to expand their p
 
 </details>
 
+<details>
+<summary><b>Huang</b> (1)</summary>
+
+| Project | Modality | Started |
+|---------|----------|---------|
+| [darlin-260407](https://github.com/Dartmouth-Data-Analytics-Core/darlin-260407) | Lineage tracing | 2026-04-27 |
+
+
+</details>
+
 
 <details>
-<summary><b>Kasper</b> (1)</summary>
+<summary><b>Kasper</b> (2)</summary>
 
 | Project | Modality | Started |
 |---------|----------|---------|
 | [kasper_250613_10x_multiome](https://github.com/Dartmouth-Data-Analytics-Core/kasper_250613_10x_multiome) | 10x Multiome | 2025-06-13 |
+| [kasper_260811_10x_irf8](https://github.com/Dartmouth-Data-Analytics-Core/kasper_260811_10x_irf8 | scRNA Seq | 2026-08-11 |
 
 </details>
 
