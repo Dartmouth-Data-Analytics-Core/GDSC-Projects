@@ -167,7 +167,7 @@ Analyses delivered to collaborating Dartmouth labs. Click a PI to expand their p
 | Project | Modality | Started |
 |---------|----------|---------|
 | [kasper_250613_10x_multiome](https://github.com/Dartmouth-Data-Analytics-Core/kasper_250613_10x_multiome) | 10x Multiome | 2025-06-13 |
-| [kasper_260811_10x_irf8](https://github.com/Dartmouth-Data-Analytics-Core/kasper_260811_10x_irf8 | scRNA Seq | 2026-08-11 |
+| [kasper_260811_10x_irf8](https://github.com/Dartmouth-Data-Analytics-Core/kasper_260811_10x_irf8) | scRNA Seq | 2026-08-11 |
 
 </details>
 
