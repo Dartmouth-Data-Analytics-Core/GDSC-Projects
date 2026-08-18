@@ -145,7 +145,7 @@ Analyses delivered to collaborating Dartmouth labs. Click a PI to expand their p
 
 | Project | Modality | Started |
 |---------|----------|---------|
-| [hampton_260609_pa_doac](https://github.com/Dartmouth-Data-Analytics-Core/hampton_260609_pa_doac) | Metagenomics | 2026-06-19 |
+| [GDSC-Pa-AccuracyScore-Pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Pa-AccuracyScore-Pipeline) | RNA-Seq | 2026-06-19 |
 
 
 </details>
