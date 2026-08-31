@@ -21,7 +21,8 @@ Reusable assets developed and maintained by the core.
 | [DAC-Barcode-Seq-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/DAC-Barcode-Seq-pipeline) | Barcode-Seq | 2025-03-26 |
 | [DAC-BulkATAC-Seq-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/DAC-BulkATAC-Seq-pipeline) | Epigenetics | 2025-04-04 |
 | [GDSC-HyperTRIBE-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-HyperTRIBE-pipeline) | HyperTRIBE | 2025-04-25 |
-| [GDSC-MGX-Pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-MGX-Pipieline) | Metagenomics | 2025-10-02 |
+| [GDSC-MGX-Pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-MGX-Pipieline) | Metagenomics | 2025-10-02 (OLD) |
+| [GDSC-Biobakery-MGX-Pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-Biobakery-MGX-Pipeline) | Metagenomics | 2026-08-31 |
 | [GDSC-clover-Seq](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-clover-Seq) | Clover-Seq | 2025-10-22 |
 | [GDSC-scClover-Seq](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-scClover-Seq) |scClover-Seq | 2026-07-30 |
 | [snakemake_DARLIN_mod](https://github.com/Dartmouth-Data-Analytics-Core/snakemake_DARLIN_mod) | Lineage tracing | 2026-04-02 |
