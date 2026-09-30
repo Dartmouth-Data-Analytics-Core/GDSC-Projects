@@ -18,7 +18,7 @@ Reusable assets developed and maintained by the core.
 | [DAC-RNAseq-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/DAC-RNAseq-pipeline) | Bulk RNA-Seq | 2019-11-12 |
 | [GDSC-miRNAseq-analysis-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-miRNAseq-analysis-pipeline) | miRNA-Seq | 2023-03-20 |
 | [DAC-WES-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/DAC-WES-pipeline) | WES | 2025-03-05 |
-| [DAC-Barcode-Seq-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/DAC-Barcode-Seq-pipeline) | Barcode-Seq | 2025-03-26 |
+| [GDSC-barcodeSeq-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-barcodeSeq-pipeline) | nuclear-receptor Seq | 2025-03-26 |
 | [DAC-BulkATAC-Seq-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/DAC-BulkATAC-Seq-pipeline) | Epigenetics | 2025-04-04 |
 | [GDSC-HyperTRIBE-pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-HyperTRIBE-pipeline) | HyperTRIBE | 2025-04-25 |
 | [GDSC-MGX-Pipeline](https://github.com/Dartmouth-Data-Analytics-Core/GDSC-MGX-Pipieline) | Metagenomics | 2025-10-02 (OLD) |
