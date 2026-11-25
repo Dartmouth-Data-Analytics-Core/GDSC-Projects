@@ -118,6 +118,7 @@ Analyses delivered to collaborating Dartmouth labs. Click a PI to expand their p
 | Project | Modality | Started |
 |---------|----------|---------|
 | [ghosh_260507_DNASeq_MGX](https://github.com/Dartmouth-Data-Analytics-Core/ghosh_260507_DNASeq_MGX) | Metagenomics | 2026-06-19 |
+| [ghosh_261026_MGX](https://github.com/Dartmouth-Data-Analytics-Core/ghosh_261026_MGX) | Metagenomics | 2026-11-18 |
 
 
 </details>
