@@ -113,7 +113,7 @@ Analyses delivered to collaborating Dartmouth labs. Click a PI to expand their p
 </details>
 
 <details>
-<summary><b>Ghosh</b> (1)</summary>
+<summary><b>Ghosh</b> (2)</summary>
 
 | Project | Modality | Started |
 |---------|----------|---------|
